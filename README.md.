@@ -1,0 +1,26 @@
+# Criminal Record Management System
+
+A simple Python + MySQL project that manages criminal records using *CRUD operations*.  
+This project demonstrates my skills in *Python programming, database connectivity, and structured problem solving*.
+
+---
+
+## 🚀 Features
+- Add new criminal records  
+- View all records in a tabular format  
+- Search records by ID, name, or crime  
+- Update imprisonment status  
+- Delete records  
+
+---
+
+## 🛠 Tech Stack
+- *Python*  
+- *MySQL*  
+- *Tabulate* (for displaying records in tables)  
+
+---
+
+## 📌 About
+This project was created to practice *Python + MySQL integration* and to strengthen my basics in database management.  
+It can be extended into a full-fledged app with a GUI or mobile interface in the future.
